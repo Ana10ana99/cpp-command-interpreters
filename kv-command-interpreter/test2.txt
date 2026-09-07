@@ -1,0 +1,6 @@
+create a
+insert a x
+insert a y
+create a
+read a
+insert z q

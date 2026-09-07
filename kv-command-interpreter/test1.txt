@@ -1,0 +1,8 @@
+create k
+read k
+read l
+delete l
+insert k v
+insert k u
+insert k u
+delete k
